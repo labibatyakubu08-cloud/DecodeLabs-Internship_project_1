@@ -1,9 +1,2 @@
 {
-    "python-envs.pythonProjects": [
-        {
-            "path": "Project 2:classification of data using AI",
-            "envManager": "ms-python.python:venv",
-            "packageManager": "ms-python.python:pip"
-        }
-    ]
 }
